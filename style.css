@@ -1,0 +1,177 @@
+.header{
+    padding-top: 20px;
+}
+.navbar{
+  
+    margin-bottom: 50px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.navbarh{
+
+font-size: 30px;
+text-transform: uppercase;
+}
+.logo{
+    height: 55px;
+    padding: 2px 18px;
+   
+    
+}
+.banner{
+    background-image: url("banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.ex1 h1{
+    text-align: center;
+    color:black;
+    
+}
+.ex5 p{
+    
+    font-size: 15px;
+    
+}
+.ex2{
+    padding-top: 20px;
+    font-size: 20px;
+  
+}
+.bor{
+    border-top: 8px solid skyblue;
+}
+.border {
+    border: 2px solid skyblue;
+    width: 5%;
+    margin: 0 auto;
+    
+}
+.welcome{
+    margin-top: 50px;
+}
+.navbar ul li  a:hover{
+    text-decoration: underline;
+    color: skyblue;
+}
+.para{
+    text-align:center;
+    font-size: 20px;
+   padding-top: 50px;
+}
+button.btn.btn-primary {
+    padding-left: 40px;
+    padding-right: 40px;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.con h1{
+    text-align: center;
+    
+}
+.con p{
+    text-align: center;
+    font-size: 20px;
+}
+.jumbo{
+    background-color: cornsilk;
+    margin-top: 30px;
+    padding-bottom: 50px;
+ 
+}
+.container.era {
+    margin-top: 40px;
+}
+.icon:before {
+ 
+    font-family: fontawesome;
+    font-size: 50px;	
+    
+}
+.go {
+    text-align: center;
+}
+.go p{
+    font-size: 14px;
+}
+.rmp{
+    margin-left: 50px;
+}
+.ara{
+    margin-top: 50px;
+    
+}
+.immg{
+    width: 540px;
+    height: 250px;
+}
+.para3{
+    background-color: skyblue;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align: center;
+    margin-top: 30px;
+  
+}
+.contact,h1{
+   
+    text-align: center;
+    
+}
+.ex6{
+    display: inline-block;
+}
+section.para3 ul li {
+    display: inline-block;
+    padding-left: 5px;
+}
+.icons{
+    font-family: fontawesome;
+    font-size: 50px;
+    border-radius: 20px;
+}	
+    
+
+.eerm{
+    margin: 0;
+    padding-left: 35px;
+}
+.para4{
+    background-color: black;
+    padding-left: 80px;
+   padding-bottom: 10px;
+}
+
+.copy{
+    text-align: center;
+    color: white;
+}
+.footer{
+    text-align:center;
+    
+}
+ul.connect-social-media li i {
+    padding: 10px;
+    background:white;
+    border-radius: 80%;
+    width: 34px;
+}
+
+.para4 ul li{
+    display: inline-block;
+    padding: 30px;
+}
+
+.para5 h1{
+    margin: 0;
+}
+ul.connect-social-media {
+    margin-left: -432px;
+}
+.anchor{
+    color: white;
+}
